@@ -1,0 +1,10 @@
+admin_login_001:
+  title: "用户名密码正确，登录成功"
+  userName: "admin"
+  password: "f43fca80ac4e65047a3f011ce47b114633717c06"
+  expect_reslut: "success"
+admin_login_002:
+  title: "用户名正确，密码错误，登录失败"
+  userName: "admin"
+  password: "f43fca80ac4e65047a3f011ce47b114633717c0"
+  expect_reslut: "用户名或密码输入错误"
